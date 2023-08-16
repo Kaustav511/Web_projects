@@ -15,3 +15,7 @@
 .btn-4{
     --color:chocolate;
 } */
+
+.accordion-button::after{
+    filter: invert(1);
+}
